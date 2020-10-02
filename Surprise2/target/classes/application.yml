@@ -3,9 +3,9 @@ server:
   
 spring:
   datasource:
-    url:  jdbc:oracle:thin:@davidpracticerevaturedbinstance.cxfabdl3wcfh.us-east-2.rds.amazonaws.com:1521:orcl
-    username: Swarbrick857
-    password: p4ssw0rd
+    url:  
+    username: 
+    password: 
     driver-class-name:  oracle.jdbc.driver.OracleDriver
   jpa:
     database-platform: org.hibernate.dialect.Oracle10gDialect
